@@ -1,4 +1,4 @@
 Akelon-Task
 ===========
 
-Akelon task
+Sum Distribution class.
